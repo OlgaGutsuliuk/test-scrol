@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./index.js"],"names":[],"mappings":"uIAAA,6B","file":"main.3bc98228fb0e8a503c46.js","sourcesContent":["import './styles.css';\nimport './js/scrol.js'"],"sourceRoot":""}
